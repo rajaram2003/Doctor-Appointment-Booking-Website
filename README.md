@@ -23,7 +23,7 @@ The Prescripto platform is designed for users to easily book appointments with d
    - Each doctor profile displays their name, specialty, available time slots, and a "Book Appointment" button.
 
 2. **Filter by Specialty**:
-   - Users can filter doctors by their specialties, such as General Practitioner, Cardiologist, Dentist, etc.
+   - Users can filter doctors by their specialties, such as General Physician, Gynecologist, Dermatologist, etc.
    - This makes it easier to find a doctor with the specific expertise required.
 
 3. **Select Date and Time**:
@@ -40,9 +40,9 @@ The Prescripto platform is designed for users to easily book appointments with d
 
 ### Examples of Use Cases
 
-- **Booking a General Checkup**: A user needing a general health checkup can use the filter to view only General Practitioners, select a convenient date and time, and quickly book an appointment.
+- **Booking a General Checkup**: A user needing a general health checkup can use the filter to view only General Physician, select a convenient date and time, and quickly book an appointment.
   
-- **Scheduling a Specialist Consultation**: Users seeking specific care, such as a cardiologist, can use the filter to narrow down options to available cardiologists, then proceed to book the appointment.
+- **Scheduling a Specialist Consultation**: Users seeking specific care, such as a Gastroenterologist, can use the filter to narrow down options to available Gastroenterologists, then proceed to book the appointment.
 
 - **Quick Booking for Urgent Needs**: For immediate health concerns, users can pick the earliest available slots within the 7-day window, ensuring timely access to care.
 
