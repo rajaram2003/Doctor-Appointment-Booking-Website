@@ -1,4 +1,4 @@
-# Prescripto - Online Doctor Appointment Booking
+# Prescripto - Online Doctor Appointment Booking Website 
 
 Prescripto is an online appointment booking website where users can schedule appointments with doctors or hospitals. Users can filter doctors by their specialty, choose a date, and select a time slot within a 7-day window for a convenient booking experience.
 
