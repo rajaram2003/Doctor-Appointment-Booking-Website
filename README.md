@@ -14,7 +14,7 @@ Prescripto is an online appointment booking website where users can schedule app
 
 ## Usage
 
-The Prescripto platform is designed for users to easily book appointments with doctors. Here’s a quick guide on how to navigate the app and use its features:
+The Prescripto platform is designed for users to easily book appointments with doctors. Here’s a quick guide on how to navigate the website and use its features:
 
 ### User Flow
 
@@ -47,5 +47,12 @@ The Prescripto platform is designed for users to easily book appointments with d
 - **Quick Booking for Urgent Needs**: For immediate health concerns, users can pick the earliest available slots within the 7-day window, ensuring timely access to care.
 
 This easy-to-navigate workflow and the filtering system make it convenient for users to manage their healthcare appointments all in one place.
+
+### Learning Resources
+
+This project was created with the help of tutorials and resources from the YouTube channel **[GreatStack]**. The channel offers great insights into building React applications and styling with Tailwind CSS, which guided me through the process of setting up and developing the Prescripto Website.
+
+Check out **[GreatStack]** for more tutorials on React, Tailwind CSS, and frontend development.
+
 
 
